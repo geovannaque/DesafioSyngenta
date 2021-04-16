@@ -1,0 +1,36 @@
+Em busca de resolver a segunda questão, que diz que há uma mensagem escondida na imagem foi realizada as seguintes tentativas:
+
+1º Tentativa: 
+Utilização de código pronto na aplicação de técnica de Esteganografia em busca de uma imagem escondida na original. 
+O código está no arquivo "tentativa1.py". 
+Não foi encontrada nenhuma mensagem.
+
+2º Tentativa:
+Utilização de código pronto na aplicação de técnica de Esteganografia em busca de uma mensagem de texto escondida na imagem. 
+O código está no arquivo "tentativa2.py".
+Não foi encontrada nenhuma mensagem.
+
+Outras tentativas:
+Utilizei outras ferramentas online de esteganografia para tentar decodificar a mensagem, sendo elas:
+https://stylesuxx.github.io/steganography/
+https://stegonline.georgeom.net/upload
+Também não consegui encontrar nenhuma mensagem utilizando os links acima. 
+Acredito que ainda me falte conhecimento especifico das técnicas de esteganografia.
+
+Especulações sem código:
+Antes de descobri a existência da esteganografia busquei a mensagem de diversas formas: 
+1 - escondendo o texto e visualizando apenas os pixels verdes buscando exergar padrões e figuras; 
+2 - contei além dos pixels verdes, os pixels totais, pretos e brancos, em busca de algum padrão;
+3 - pensei em criar um código para comparar o padrão dos pixels com algum outro já existente como braile ou morse. mas não consegui achar semelhança nos pixels a olho nu e acabei desistindo da ideia.
+
+Nenhum dos três pensamentos levou a alguma resposta.
+
+Acreditar que a mensagem está na expressão "Hire me" apesar de ser uma possibilidade muito obvia é convidativa. 
+Porém, acredito que não era essa a ideia já que está explicito que a mensagem está escondida.
+
+Outro pensamento que tive foi ao olhar o site da empresa, a última postagem do blog é a seguinte:
+https://pordentrodoagro.com.br/inteligencia-artificial-na-agricultura/        
+Acredito que, apesar de ser muito mais simples, a ideia da questão 1 é bem similar a ideia dessa funcionalidade do sdgsgsgsdgs. 
+Pois as duas trabalham com imagens em busca de padrões, na questão 1 foram os pixels com um RGB especifico,
+na TAL COIISA acredito que seja através da busca de aglomerados de pixels de tom esverdeado. 
+De qualquer forma, a aplicação deve ser muito mais complexa,é uma suposição partindo somente da postagem que li e de ter visto nas minhas pesquisas o OpenCv sendo utilizado de forma parecida, buscando rostos, objetos etc. 
